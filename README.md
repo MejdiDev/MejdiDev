@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mejdi Chennoufi</h1>
+<h1 align="center">Hello There 👋, I'm Mejdi Chennoufi</h1>
 <h3 align="center">Developer, Student and Trainer</h3>
 
 - 🔭 I’m currently working on **WanderHub 👀**
