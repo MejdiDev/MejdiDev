@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Mejdi Chennoufi</h1>
 <h3 align="center">Developer, Student and Trainer</h3>
 
-- 🔭 I’m currently working on **WanderHub 👀**
+- 🔭 I’m currently working on **WonderHub 👀**
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
