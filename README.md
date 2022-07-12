@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
-- 📝 Take a look at my posts on <a href="https://www.linkedin.com/in/mejdi-chennoufi-505092212/" target="blank">LinkedIn</a>
+- 📝 Take a look at my <a href="www.mejdidevs.com" target="blank">portfolio</a>
 
 - 💬 Ask me about **Next.js**
 
